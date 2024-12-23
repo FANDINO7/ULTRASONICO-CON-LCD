@@ -13,8 +13,8 @@ En este repo se muestra como podemos programar la pantalla LCD con lo anteriorme
 -Ultrasonic Distance Sensor
 -lcd1602
 
-
-´´´
+**Codigo en para la programacion**
+```
 const int Trigger = 4;   //Pin digital 2 para el Trigger del sensor
 const int Echo = 15;   //Pin digital 3 para el Echo del sensor
 #include <LiquidCrystal_I2C.h>
@@ -71,4 +71,4 @@ void loop()
   lcd.print("Distancia:"+ String(d)+ "cm");
   delay(2000); 
 }
-´´´
+```
