@@ -74,4 +74,4 @@ void loop()
 ```
 
 **resultados**
-!![]()
+!![](https://github.com/FANDINO7/ULTRASONICO-CON-LCD/blob/main/lcd%20con%20ultrasonico.png?raw=true)
