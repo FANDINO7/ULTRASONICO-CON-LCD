@@ -8,7 +8,7 @@ En este repo se muestra como podemos programar la pantalla LCD con lo anteriorme
 
 
 **Material Necesario**
-wokwi
-ESP32
-Ultrasonic Distance Sensor
-lcd1602
+-wokwi
+-ESP32
+-Ultrasonic Distance Sensor
+-lcd1602
